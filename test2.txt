@@ -1,1 +1,2 @@
 This is first line in second test file
+This is second line in test2
